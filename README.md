@@ -3,7 +3,7 @@
 ### Contact Info
 **Email:** mkrwii@live.com
 **Mobile phone:** +47 95 20 06 47
-**GitHub:** [github.com/mkrwii](https://github.com/mkrwii
+**GitHub:** [github.com/mkrwii](https://github.com/mkrwii)
 
 ### Summary
 - Will graduate with a BA in Computer Science, OsloMet 2025
