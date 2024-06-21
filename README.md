@@ -47,7 +47,7 @@
 - May 2019 - Aug 2020
 - Piloting new self-checkout system
 
-### [Norsk Butikkdrift AS](https://www.coop.no/om-coop/virksomheten/coop-norge-sa/datterselskaper/norsk-butikkdrift-as))
+### [Norsk Butikkdrift AS](https://www.coop.no/om-coop/virksomheten/coop-norge-sa/datterselskaper/norsk-butikkdrift-as)
 - Shift leader and assistant manager at medium supermarkets in the oslo area
 - 2012-2019
 - Piloting new SAP-based systems for automatic ordering of Merchandise
