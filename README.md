@@ -1,5 +1,10 @@
 # Curriculum Vitae
 ## Magnus Kristian Wiik
+### Contact Info
+**Email:** mkrwii@live.com
+**Mobile phone:** +47 95 20 06 47
+**GitHub:** [github.com/mkrwii](https://github.com/mkrwii
+
 ### Summary
 - Will graduate with a BA in Computer Science, OsloMet 2025
 - Experience from customer service, retail and manager roles
@@ -16,7 +21,7 @@
 - Elective subject: Software testing
 - Key technologies learned: Java, Javascript, Python, SQL, Spring Boot, Git
 - Key skills acquired: Object Oriented Programming, code conventions, debugging, testing, use of JetBrains IDEs (IntelliJ, PyCharm, Webstorm, CLion)
-- Favorite courses: [DATA2410]([url](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2410/2023/H%C3%98ST)), [DATA2500]([url](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2500/2023/H%C3%98ST)), [DATS2300]([url](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2023/H%C3%98ST))
+- Favorite courses: [DATA2410](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2410/2023/H%C3%98ST), [DATA2500](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2500/2023/H%C3%98ST), [DATS2300](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2023/H%C3%98ST)
 
 ### Bachelor's Degree in History
 - At [Universitetet i Nordland](https://www.nord.no/studier/historie-bachelor)
