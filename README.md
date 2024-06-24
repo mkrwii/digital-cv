@@ -14,7 +14,8 @@
 - Experience from customer service, retail and manager roles
 - BA History Uni Nordland 2011
 - Available for tech positions in Oslo, Norway
-- Good knowledge of Java, Python, SQL, Linux,
+- Good knowledge of Java, Python, SQL, Linux
+- Full professional knowledge of English and Norwegian
  
 ## Education
 
@@ -50,11 +51,12 @@
 - Rotating between costumer service and managerial roles at several stores in the Oslo area during the startup phase of this supermarket chain
 - May 2019 - Aug 2020
 - Piloting new self-checkout system
+- Translating product labels and ingredients from English to Norwegian
 
 ### [Norsk Butikkdrift AS](https://www.coop.no/om-coop/virksomheten/coop-norge-sa/datterselskaper/norsk-butikkdrift-as)
-- Shift leader and assistant manager at medium supermarkets in the oslo area
+- Shift leader and assistant manager at medium supermarkets in the Oslo area
 - 2012-2019
-- Piloting new SAP-based systems for automatic ordering of Merchandise
+- Piloting new SAP-based systems for automatic ordering of merchandise
 
 ## Volunteering
 
@@ -62,7 +64,7 @@
 - Independent football supporter club based in Oslo
 - Board member 2021-ongoing
 - Organising pub gatherings and trips to away games in the area
-- Procuring and selling merchandise
+- Procuring and selling merchandise, such as scarves, hats and T-shirts
 
 ### [Nødutgangfestivalen](https://kreativenord.no/actor/nodutgangfestivalen/)
 - (now defunct) Music Festival in Bodø, Norway
