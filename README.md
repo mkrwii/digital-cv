@@ -8,6 +8,7 @@
 
 **GitHub:** [github.com/mkrwii](https://github.com/mkrwii)
 
+**Age:** 36
 
 ### Summary
 - Will graduate with a BA in Computer Science, OsloMet 2025
