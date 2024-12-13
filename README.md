@@ -24,9 +24,9 @@
 - At [Oslo Metropolitan University](https://www.oslomet.no/studier/tkd/informasjonsteknologi)
 - "Bachelor i informasjonsteknologi"
 - Aug 2022 - June 2025
-- Elective subject: Software testing
-- Key technologies learned: Java, Javascript, Python, SQL, Spring Boot, Git
-- Key skills acquired: Object Oriented Programming, code conventions, debugging, testing, use of JetBrains IDEs (IntelliJ, PyCharm, Webstorm, CLion)
+- Elective subject: Software testing, Introduction to AI
+- Key technologies learned: Java, C#, Javascript, Python, SQL, Spring Boot, Git
+- Key skills acquired: Object Oriented Programming, code conventions, debugging, testing, use of JetBrains IDEs (IntelliJ, PyCharm, VSCode, Webstorm, CLion)
 - Favorite courses: [DATA2410](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2410/2023/H%C3%98ST), [DATA2500](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2500/2023/H%C3%98ST), [DATS2300](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2023/H%C3%98ST)
 
 ### Bachelor's Degree in History
@@ -75,7 +75,10 @@
 - lay judge at Oslo District Court
 - On average two criminal cases per year, 1-2 days
 - Jan 2017- Dec 2024
-- Will probably not be reelected after serving these two periods
+
+### Meddommer at Borgarting Lagmannsrett
+- lay judge at Borgarting Court of Appeal
+- Jan 2025 - Dec 2028
 
 ## Skills
 
@@ -85,8 +88,8 @@
 - SQL
 - Javascript
 - Bash scripting
-- Arduino
 - Limited knowledge of C/C++
+- C#
 
 ### Non-programming Languages
 - Fluent in Norwegian and English
@@ -101,6 +104,7 @@
 ### Other Software
 - Microsoft Office 365
 - JetBrains IDEs
+- Visual Studio Code
 - SAP
 
 ### Non-professional interests
