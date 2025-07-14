@@ -8,15 +8,15 @@
 
 **GitHub:** [github.com/mkrwii](https://github.com/mkrwii)
 
-**Age:** 36
+**Age:** 37
 
 ### Summary
-- Will graduate with a BA in Computer Science, OsloMet 2025
-- Experience from customer service, retail and manager roles
-- BA History Uni Nordland 2011
+- BA in Computer Science, OsloMet 2025
 - Available for tech positions in Oslo, Norway
 - Good knowledge of Java, Python, SQL, Linux
 - Full professional knowledge of English and Norwegian
+- Experience from customer service, retail and manager roles
+- BA History Uni Nordland 2011
  
 ## Education
 
