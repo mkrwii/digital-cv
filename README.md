@@ -24,7 +24,7 @@
 - At [Oslo Metropolitan University](https://www.oslomet.no/studier/tkd/informasjonsteknologi)
 - "Bachelor i informasjonsteknologi"
 - Aug 2022 - June 2025
-- Elective subject: Software testing, Introduction to AI
+- Elective subjects: Software testing, Introduction to AI
 - Key technologies learned: Java, C#, Javascript, Python, SQL, Spring Boot, Git
 - Key skills acquired: Object Oriented Programming, code conventions, debugging, testing, use of JetBrains IDEs (IntelliJ, PyCharm, VSCode, Webstorm, CLion)
 - Favorite courses: [DATA2410](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2410/2023/H%C3%98ST), [DATA2500](https://student.oslomet.no/studier/-/studieinfo/emne/DATA2500/2023/H%C3%98ST), [DATS2300](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2023/H%C3%98ST)
@@ -48,7 +48,7 @@
 - Working on projects covering costumer service and satisfaction, leads generation and securing adherence to norwegian travel quarantine rules during the COVID-19 pandemic
 - May 2021 - Aug 2022
 
-### [Iceland Mat AS](https://qwww.icelandmat.no)
+### [Iceland Mat AS](https://www.icelandmat.no)
 - Rotating between costumer service and managerial roles at several stores in the Oslo area during the startup phase of this supermarket chain
 - May 2019 - Aug 2020
 - Piloting new self-checkout system
