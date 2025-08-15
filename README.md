@@ -45,6 +45,7 @@
 ## Work Experience
 
 ### [Maskineriet AS](https://maskineriet.no/)
+- Large Norwegian callcenter
 - Working on projects covering costumer service and satisfaction, leads generation and securing adherence to norwegian travel quarantine rules during the COVID-19 pandemic
 - May 2021 - Aug 2022
 
